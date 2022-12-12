@@ -1,0 +1,46 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: rgb(15, 196, 112);
+    text-align: center;
+}
+
+h2 {
+    color: aquamarine;
+    text-align: center;
+}
+
+div {
+    background-color: cornflowerblue;
+    border-style:ridge;
+    border-color: green;
+    border-radius: 2.5px;
+    text-align: center;
+}
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.forms {
+    margin: auto;
+    width: 220px;
+}
+
+.shadow-text {
+    text-shadow: blue 1px 1px;
+    text-align: center;
+}
+img {
+    float: inline-start;
+}
+
